@@ -6,8 +6,8 @@ on:
       - builds-debian-11/*
 
 env:
-  DEBIAN_PACKAGE_SUFFIX: -anc
-  TAG_SUFFIX: -anc
+  DEBIAN_PACKAGE_SUFFIX: -vps
+  TAG_SUFFIX: -vps
   DISTRO_FULLNAME: Debian 11
   DISTRO_TAG_PREFIX: debian-11
 
